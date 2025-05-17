@@ -1,0 +1,12 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- TypeScript is a syntactic superset of JavaScript which adds static typing. This basically means that TypeScript adds syntax on top of JavaScript, allowing ...\r - think typescript as a tool for development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

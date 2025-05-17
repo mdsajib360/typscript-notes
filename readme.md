@@ -5,20 +5,20 @@
 
 ## setup typescript project & Start writing code in typescript 
  
- - step 1:  Initializing your project with npm
+ - step 1:  Initializing your project with npm {Install Node.js on your system if you haven't done so already.}
  ```
     npm init -y 
  ```
-- Step 3: Installing Typescript
+- Step 2: Installing Typescript
 ```
 npm install typescript --save-dev 
 ```
-- Step 4: Configuring Typescript
+- Step 3: Configuring Typescript
 ```
 npx tsc --init
 ```
 
-- Step 5: Creating Your First TypeScript File
+- Step 4: Creating Your First TypeScript File
  ```
 // index.ts
 
