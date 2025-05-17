@@ -4,9 +4,9 @@
 - think typescript as a tool for development 
 
 ## setup typescript project & Start writing code in typescript 
-- npm init -y
-- npm install typescript --save-dev 
-- npx tsc --init
+- ```npm init -y ```
+- ```npm install typescript --save-dev``` 
+- ```npx tsc --init```
 - create new typescript file. example index.ts 
 ``` 
 // index.ts
