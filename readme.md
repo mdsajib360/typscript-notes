@@ -1,4 +1,4 @@
-# TypesScript Introduction setup 
+# TypesScript Introduction and setup 
 
 - TypeScript is a syntactic superset of JavaScript which adds static typing. This basically means that TypeScript adds syntax on top of JavaScript, allowing ...
 - think typescript as a tool for development 
