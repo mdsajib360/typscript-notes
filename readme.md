@@ -13,6 +13,4 @@
 
 const greeting: string = "Hello, GeeksforGeeks!";
 console.log(greeting);
- ```# typscript-notes
-# typscript-notes
-# typscript-notes
+ ```
