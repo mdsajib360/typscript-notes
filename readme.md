@@ -4,13 +4,31 @@
 - think typescript as a tool for development 
 
 ## setup typescript project & Start writing code in typescript 
-- ```npm init -y ```
-- ```npm install typescript --save-dev``` 
-- ```npx tsc --init```
-- create new typescript file. example index.ts 
-``` 
+ 
+ - step 1:  Initializing your project with npm
+ ```
+    npm init -y 
+ ```
+- Step 3: Installing Typescript
+```
+npm install typescript --save-dev 
+```
+- Step 4: Configuring Typescript
+```
+npx tsc --init
+```
+
+- Step 5: Creating Your First TypeScript File
+ ```
 // index.ts
 
 const greeting: string = "Hello, GeeksforGeeks!";
 console.log(greeting);
  ```
+
+### Step to Run Application: Run the application using the following commands from the root directory of the project
+
+```
+npx tsc
+node index.js
+```
