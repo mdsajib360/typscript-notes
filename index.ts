@@ -1,4 +1,4 @@
 // index.ts
 
-const greeting: string = "Hello, GeeksforGeeks!";
+const greeting: string = "Hello, TypeScript!";
 console.log(greeting);
